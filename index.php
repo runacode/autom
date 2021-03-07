@@ -1,7 +1,7 @@
-<?php $company = "DAHL S AUTO WORKS INC";
-$phone = "(507) 864-7711";
-	$address1 = "207 N ELM ST";
-	$address2 = "RUSHFORD, MN 55971";
+<?php $company = "AUTOMATION ENGINEERING LLC";
+$phone = "(785) 309-0505";
+	$address1 = "1100 W GRAND AVE";
+	$address2 = "SALINA, KS 67401-1863";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
